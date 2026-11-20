@@ -5,6 +5,8 @@ Aplicación en **Laravel** para consultar y reservar talleres de una escuela de 
 - **Web MVC** con Blade y Sass, con un diseño inspirado en la Bauhaus (formas geométricas, colores primarios y tipografía geométrica).
 - **API REST** en JSON, que usa el front en Angular [taller-reservas-web](https://github.com/rosmery-gallardo/taller-reservas-web).
 
+**[Ver la demo del front](https://rosmery-gallardo.github.io/taller-reservas-web/)** (con datos de ejemplo, porque GitHub Pages no ejecuta PHP).
+
 ## Qué demuestra
 
 - Arquitectura **MVC**: modelos Eloquent, controladores finos y vistas Blade.
